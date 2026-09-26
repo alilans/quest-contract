@@ -13,7 +13,6 @@ test_snapshots/
 **/test_snapshots/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -24,6 +23,6 @@ test_snapshots/
 Thumbs.db
 
 # Environment
-.env
-.env.local
 **/test_snapshots/
+config.bat
+node_modules
